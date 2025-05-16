@@ -4,7 +4,7 @@
 ![Coding Trail](coding_path_background-s.png)
 
 
-Bienvenue sur mon plan de navigation !
+Bienvenue sur mon plan de route !
 Un espace où je trace mon chemin dans le développement web : entre découvertes, projets concrets et expérimentations.
 
 Curieuse et engagée, je vois le code comme un terrain d’exploration où chaque apprentissage en appelle un autre.  
