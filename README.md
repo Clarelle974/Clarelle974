@@ -1,6 +1,8 @@
 # Explorer, apprendre, bâtir
 
 ## 👋 Salut, moi c’est Clarelle — développeuse web en évolution
+![Coding Trail](coding_path_background-s.png)
+
 
 Bienvenue sur mon plan de navigation !
 Un espace où je trace mon chemin dans le développement web : entre découvertes, projets concrets et expérimentations.
